@@ -1,0 +1,27 @@
+name: story_maker_app
+description: A mobile AI storytelling app for children.
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.7.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_tts: ^4.2.2
+  http: ^1.4.0  # For calling your backend API
+  provider: ^6.1.1 # Optional: for managing state (if needed)
+  cupertino_icons: ^1.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  # assets:
+  #   - assets/images/
+  #   - assets/fonts/CustomFont-Regular.ttf
+  # Uncomment the above lines if you have assets to include
+  # Example of including a custom font 
