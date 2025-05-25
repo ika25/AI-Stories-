@@ -12,6 +12,8 @@ dependencies:
   http: ^1.4.0  # For calling your backend API
   provider: ^6.1.1 # Optional: for managing state (if needed)
   cupertino_icons: ^1.0.6
+  # Uncomment the above lines if you have assets to include
+  # Example of including a custom font
 
 dev_dependencies:
   flutter_test:

@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'screens/home_screen.dart';
 import 'screens/story_screen.dart';
 import 'screens/library_screen.dart';
+// This code imports necessary Flutter packages and screens for a simple story-making app.
 
 void main() => runApp(MyApp());
 
